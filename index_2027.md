@@ -1,9 +1,9 @@
 ---
 layout: resume
-title: Brigham Young's Resume
+title: Benson Ostler's Resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+# Benson Ostler
+I like to ski and data science is very fun!
 
 <div id="webaddress">
 <a href="datascience@byui.edu">datascience@byui.edu</a>
@@ -15,18 +15,20 @@ The second prophet of The Church of Jesus Christ of Latter-day Saints.
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
+`2019-2021`
+__Brigham Yound University Idaho__, Rexburg ID
 
 - Full academic scholarship with 4.0 GPA
 
-`Expected 2029`
+`Expected 2022`
 __Brigham Young University - Idaho__, Rexburg, ID
 
 - 4.0 Major GPA
 
 
 ## Related Experience
+
+- CLasses in data science and programming with Python
 
 ### Internships
 
@@ -83,6 +85,6 @@ __Service Missionary__, South Africa
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: December 2020 -->
 
 
