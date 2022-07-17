@@ -21,7 +21,7 @@ adding your skills, jobs and education.
 ![](https://help.github.com/assets/images/help/repository/edit-readme-light.png)
 
 ## Distribution
-
+ 
 To transform your plain text resume into a beautiful and shareable HTML page, you have two options:
 
 ### I. Use Github Pages to publish it online
