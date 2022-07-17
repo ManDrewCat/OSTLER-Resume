@@ -1,9 +1,9 @@
 ---
 layout: cv
-title: Brigham Young's Resume
+title: Benson Ostler's Resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+# Benson Ostler
+Computer Science Graduate at BYU-Idaho
 
 <div id="webaddress">
 <a href="datascience@byui.edu">datascience@byui.edu</a>
@@ -16,36 +16,36 @@ The second prophet of The Church of Jesus Christ of Latter-day Saints.
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
+`2019-2022`
+__BYU-Idaho__, Rexburg, ID
 
-- Full academic scholarship with 4.0 GPA
+- Full academic scholarship with 3.8 GPA & Data Science certificate
 
-`Expected 2029`
-__Brigham Young University - Idaho__, Rexburg, ID
+`2015-2018`
+__Richland High School__
 
-- 4.0 Major GPA
+- Full high school diploma with 3.48 GPA
 
 
 ## Related Experience
 
+
+
 ### Internships
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+`2022`
+__Plena__, American Fork, UT/Remote
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+- 250 hours/exerience
+- Created bots to automate business processes
+- Worked in MySQL to identify complex data trends
 
 ### Data Science Lead
 
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
+`Jan 2022-Apr 2-22`
+__Machine Learning__, Student
 
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
+- Learned and applied both machine learning theory principles and actual implementations of that theory throughout multiple projects during the course of the class
 
 `September 2027 - April 2028`
 __Good2Go__, Consultant
@@ -84,6 +84,6 @@ __Service Missionary__, South Africa
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: July 2022 -->
 
 
