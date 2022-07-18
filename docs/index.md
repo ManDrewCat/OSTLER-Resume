@@ -42,7 +42,7 @@ __Plena__, American Fork, UT/Remote
 
 ### Data Science Lead
 
-`Jan 2022-Apr 2-22`
+`January 2022 - Apr 2022`
 __Machine Learning__, Student
 
 - Learned and applied both machine learning theory principles and actual implementations of that theory throughout multiple projects during the course of the class
